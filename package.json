@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-api-nodejs-example-master",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "ngrok": "^3.4.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8"
+  }
+}
